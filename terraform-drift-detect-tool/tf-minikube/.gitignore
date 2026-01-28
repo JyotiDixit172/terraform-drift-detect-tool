@@ -1,0 +1,9 @@
+# Terraform local state
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.*
+
+# OS
+.DS_Store
