@@ -1,0 +1,11 @@
+# Terraform
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+
+# Terraform lock & local configs
+**/.terraform.lock.hcl
+**/drift-demo-config
+
+# OS
+.DS_Store

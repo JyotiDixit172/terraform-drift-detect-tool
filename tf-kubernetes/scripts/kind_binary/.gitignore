@@ -1,7 +1,0 @@
-# Terraform
-**/.terraform/
-**/*.tfstate
-**/*.tfstate.*
-
-# OS
-.DS_Store
