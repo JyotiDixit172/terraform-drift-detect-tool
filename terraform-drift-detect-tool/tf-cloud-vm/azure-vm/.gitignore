@@ -1,0 +1,17 @@
+# Terraform working directory
+.terraform/
+**/.terraform/
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+*.backup
+
+# Terraform plans
+*.tfplan
+tfplan_*
+
+# IDE / OS noise
+.vscode/
+.idea/
+*.log
